@@ -5,3 +5,4 @@
 AirlineReviews.csv
 cleaned_review.csv
 final_result.csv
+*.csv
