@@ -1,7 +1,5 @@
 # Ignore .npy files
 *.npy
 
-# Ignore specific file
-AirlineReviews.csv
-cleaned_review.csv
-final_result.csv
+# Ignore csv files
+*.csv
